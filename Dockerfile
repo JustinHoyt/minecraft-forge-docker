@@ -1,5 +1,5 @@
-# docker run -d -p 25565:25565 -t justinhoyt/minecraft-forge
-FROM justinhoyt/minecraft
+# docker run -d -p 25565:25565 -t justinhoyt/minecraft-forge-docker
+FROM justinhoyt/minecraft-docker
 RUN mkdir -p /mc/mods
 WORKDIR /mc
 ADD \
