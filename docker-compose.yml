@@ -2,5 +2,9 @@ minecraft-forge:
   image: justinhoyt/minecraft-forge-docker
   ports: 
     - 25565:25565
-  volumes:
+  volumes_from:
+    - minecraft-data
+minecraft-data:
+  image: library/java:latest
+  volumes: 
     - /mc/world
