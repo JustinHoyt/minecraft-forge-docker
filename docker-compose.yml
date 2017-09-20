@@ -1,5 +1,5 @@
 minecraft-forge:
-  image: justinhoyt/minecraft-forge-docker
+  image: justinhoyt/minecraft-forge-docker:latest
   ports: 
     - 25565:25565
   volumes_from:
