@@ -1,0 +1,6 @@
+{
+    "repositoryRoot": "/Users/justinhoyt/docker-minecraft/minecraft-forge-docker/./libraries",
+    "modRef": [
+        "net.minecraftforge:MercuriusUpdater:1.12.1"
+    ]
+}

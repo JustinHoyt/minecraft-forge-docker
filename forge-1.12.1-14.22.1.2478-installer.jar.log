@@ -1,0 +1,155 @@
+Installing server to current directory
+MESSAGE: Data kindly mirrored by Forge at http://MinecraftForge.net/
+MESSAGE: Considering minecraft server jar
+MESSAGE: Downloading minecraft server version 1.12.1
+  ETag: 4ad498b14910c51f8ec919525fd101c6
+  MD5:  4ad498b14910c51f8ec919525fd101c6
+MESSAGE: Considering library net.minecraftforge:forge:1.12.1-14.22.1.2478: Not Downloading {Wrong Side}
+MESSAGE: Considering library net.minecraft:launchwrapper:1.12
+MESSAGE: Downloading library net.minecraft:launchwrapper:1.12
+MESSAGE: Trying unpacked library net.minecraft:launchwrapper:1.12
+MESSAGE: Considering library org.ow2.asm:asm-all:5.2
+MESSAGE: Downloading library org.ow2.asm:asm-all:5.2
+MESSAGE: Trying unpacked library org.ow2.asm:asm-all:5.2
+MESSAGE: Considering library jline:jline:2.13
+MESSAGE: Downloading library jline:jline:2.13
+MESSAGE: Trying unpacked library jline:jline:2.13
+MESSAGE: Considering library com.typesafe.akka:akka-actor_2.11:2.3.3
+MESSAGE: Downloading library com.typesafe.akka:akka-actor_2.11:2.3.3
+MESSAGE: Unpacking packed file akka-actor_2.11-2.3.3.jar.pack.xz
+  Signed
+  Checksum Length: 140942
+  Total Length:    2606968
+  Temp File:       /var/folders/d7/m5h1x91n363c5rz9wtjgspcw0000gn/T/art8013082885342486422.pack
+MESSAGE: Successfully unpacked packed file akka-actor_2.11-2.3.3.jar.pack.xz
+Checking "/Users/justinhoyt/docker-minecraft/minecraft-forge-docker/./libraries/com/typesafe/akka/akka-actor_2.11/2.3.3/akka-actor_2.11-2.3.3.jar" internal checksums
+    checksums.sha1 validated successfully
+    Jar contents validated successfully
+MESSAGE: Considering library com.typesafe:config:1.2.1
+MESSAGE: Downloading library com.typesafe:config:1.2.1
+MESSAGE: Unpacking packed file config-1.2.1.jar.pack.xz
+  Signed
+  Checksum Length: 12246
+  Total Length:    111476
+  Temp File:       /var/folders/d7/m5h1x91n363c5rz9wtjgspcw0000gn/T/art4434101523952036133.pack
+MESSAGE: Successfully unpacked packed file config-1.2.1.jar.pack.xz
+Checking "/Users/justinhoyt/docker-minecraft/minecraft-forge-docker/./libraries/com/typesafe/config/1.2.1/config-1.2.1.jar" internal checksums
+    checksums.sha1 validated successfully
+    Jar contents validated successfully
+MESSAGE: Considering library org.scala-lang:scala-actors-migration_2.11:1.1.0
+MESSAGE: Downloading library org.scala-lang:scala-actors-migration_2.11:1.1.0
+MESSAGE: Unpacking packed file scala-actors-migration_2.11-1.1.0.jar.pack.xz
+  Signed
+  Checksum Length: 3311
+  Total Length:    52481
+  Temp File:       /var/folders/d7/m5h1x91n363c5rz9wtjgspcw0000gn/T/art2196231828294545891.pack
+MESSAGE: Successfully unpacked packed file scala-actors-migration_2.11-1.1.0.jar.pack.xz
+Checking "/Users/justinhoyt/docker-minecraft/minecraft-forge-docker/./libraries/org/scala-lang/scala-actors-migration_2.11/1.1.0/scala-actors-migration_2.11-1.1.0.jar" internal checksums
+    checksums.sha1 validated successfully
+    Jar contents validated successfully
+MESSAGE: Considering library org.scala-lang:scala-compiler:2.11.1
+MESSAGE: Downloading library org.scala-lang:scala-compiler:2.11.1
+MESSAGE: Unpacking packed file scala-compiler-2.11.1.jar.pack.xz
+  Signed
+  Checksum Length: 942120
+  Total Length:    9183051
+  Temp File:       /var/folders/d7/m5h1x91n363c5rz9wtjgspcw0000gn/T/art1942606629465677277.pack
+MESSAGE: Successfully unpacked packed file scala-compiler-2.11.1.jar.pack.xz
+Checking "/Users/justinhoyt/docker-minecraft/minecraft-forge-docker/./libraries/org/scala-lang/scala-compiler/2.11.1/scala-compiler-2.11.1.jar" internal checksums
+    checksums.sha1 validated successfully
+    Jar contents validated successfully
+MESSAGE: Considering library org.scala-lang.plugins:scala-continuations-library_2.11:1.0.2
+MESSAGE: Downloading library org.scala-lang.plugins:scala-continuations-library_2.11:1.0.2
+MESSAGE: Unpacking packed file scala-continuations-library_2.11-1.0.2.jar.pack.xz
+  Signed
+  Checksum Length: 2416
+  Total Length:    18871
+  Temp File:       /var/folders/d7/m5h1x91n363c5rz9wtjgspcw0000gn/T/art1151783774382277233.pack
+MESSAGE: Successfully unpacked packed file scala-continuations-library_2.11-1.0.2.jar.pack.xz
+Checking "/Users/justinhoyt/docker-minecraft/minecraft-forge-docker/./libraries/org/scala-lang/plugins/scala-continuations-library_2.11/1.0.2/scala-continuations-library_2.11-1.0.2.jar" internal checksums
+    checksums.sha1 validated successfully
+    Jar contents validated successfully
+MESSAGE: Considering library org.scala-lang.plugins:scala-continuations-plugin_2.11.1:1.0.2
+MESSAGE: Downloading library org.scala-lang.plugins:scala-continuations-plugin_2.11.1:1.0.2
+MESSAGE: Unpacking packed file scala-continuations-plugin_2.11.1-1.0.2.jar.pack.xz
+  Signed
+  Checksum Length: 16815
+  Total Length:    139418
+  Temp File:       /var/folders/d7/m5h1x91n363c5rz9wtjgspcw0000gn/T/art222599799769403440.pack
+MESSAGE: Successfully unpacked packed file scala-continuations-plugin_2.11.1-1.0.2.jar.pack.xz
+Checking "/Users/justinhoyt/docker-minecraft/minecraft-forge-docker/./libraries/org/scala-lang/plugins/scala-continuations-plugin_2.11.1/1.0.2/scala-continuations-plugin_2.11.1-1.0.2.jar" internal checksums
+    checksums.sha1 validated successfully
+    Jar contents validated successfully
+MESSAGE: Considering library org.scala-lang:scala-library:2.11.1
+MESSAGE: Downloading library org.scala-lang:scala-library:2.11.1
+MESSAGE: Unpacking packed file scala-library-2.11.1.jar.pack.xz
+  Signed
+  Checksum Length: 341368
+  Total Length:    5984083
+  Temp File:       /var/folders/d7/m5h1x91n363c5rz9wtjgspcw0000gn/T/art3031497017709776352.pack
+MESSAGE: Successfully unpacked packed file scala-library-2.11.1.jar.pack.xz
+Checking "/Users/justinhoyt/docker-minecraft/minecraft-forge-docker/./libraries/org/scala-lang/scala-library/2.11.1/scala-library-2.11.1.jar" internal checksums
+    checksums.sha1 validated successfully
+    Jar contents validated successfully
+MESSAGE: Considering library org.scala-lang:scala-parser-combinators_2.11:1.0.1
+MESSAGE: Downloading library org.scala-lang:scala-parser-combinators_2.11:1.0.1
+MESSAGE: Unpacking packed file scala-parser-combinators_2.11-1.0.1.jar.pack.xz
+  Signed
+  Checksum Length: 37614
+  Total Length:    273457
+  Temp File:       /var/folders/d7/m5h1x91n363c5rz9wtjgspcw0000gn/T/art6495557086580360245.pack
+MESSAGE: Successfully unpacked packed file scala-parser-combinators_2.11-1.0.1.jar.pack.xz
+Checking "/Users/justinhoyt/docker-minecraft/minecraft-forge-docker/./libraries/org/scala-lang/scala-parser-combinators_2.11/1.0.1/scala-parser-combinators_2.11-1.0.1.jar" internal checksums
+    checksums.sha1 validated successfully
+    Jar contents validated successfully
+MESSAGE: Considering library org.scala-lang:scala-reflect:2.11.1
+MESSAGE: Downloading library org.scala-lang:scala-reflect:2.11.1
+MESSAGE: Unpacking packed file scala-reflect-2.11.1.jar.pack.xz
+  Signed
+  Checksum Length: 291610
+  Total Length:    3217021
+  Temp File:       /var/folders/d7/m5h1x91n363c5rz9wtjgspcw0000gn/T/art4726076223160232859.pack
+MESSAGE: Successfully unpacked packed file scala-reflect-2.11.1.jar.pack.xz
+Checking "/Users/justinhoyt/docker-minecraft/minecraft-forge-docker/./libraries/org/scala-lang/scala-reflect/2.11.1/scala-reflect-2.11.1.jar" internal checksums
+    checksums.sha1 validated successfully
+    Jar contents validated successfully
+MESSAGE: Considering library org.scala-lang:scala-swing_2.11:1.0.1
+MESSAGE: Downloading library org.scala-lang:scala-swing_2.11:1.0.1
+MESSAGE: Unpacking packed file scala-swing_2.11-1.0.1.jar.pack.xz
+  Signed
+  Checksum Length: 39019
+  Total Length:    888907
+  Temp File:       /var/folders/d7/m5h1x91n363c5rz9wtjgspcw0000gn/T/art2552288312198925287.pack
+MESSAGE: Successfully unpacked packed file scala-swing_2.11-1.0.1.jar.pack.xz
+Checking "/Users/justinhoyt/docker-minecraft/minecraft-forge-docker/./libraries/org/scala-lang/scala-swing_2.11/1.0.1/scala-swing_2.11-1.0.1.jar" internal checksums
+    checksums.sha1 validated successfully
+    Jar contents validated successfully
+MESSAGE: Considering library org.scala-lang:scala-xml_2.11:1.0.2
+MESSAGE: Downloading library org.scala-lang:scala-xml_2.11:1.0.2
+MESSAGE: Unpacking packed file scala-xml_2.11-1.0.2.jar.pack.xz
+  Signed
+  Checksum Length: 35380
+  Total Length:    739509
+  Temp File:       /var/folders/d7/m5h1x91n363c5rz9wtjgspcw0000gn/T/art52248826101497674.pack
+MESSAGE: Successfully unpacked packed file scala-xml_2.11-1.0.2.jar.pack.xz
+Checking "/Users/justinhoyt/docker-minecraft/minecraft-forge-docker/./libraries/org/scala-lang/scala-xml_2.11/1.0.2/scala-xml_2.11-1.0.2.jar" internal checksums
+    checksums.sha1 validated successfully
+    Jar contents validated successfully
+MESSAGE: Considering library lzma:lzma:0.0.1
+MESSAGE: Downloading library lzma:lzma:0.0.1
+MESSAGE: Trying unpacked library lzma:lzma:0.0.1
+MESSAGE: Considering library net.sf.jopt-simple:jopt-simple:5.0.3
+MESSAGE: Downloading library net.sf.jopt-simple:jopt-simple:5.0.3
+MESSAGE: Trying unpacked library net.sf.jopt-simple:jopt-simple:5.0.3
+MESSAGE: Considering library java3d:vecmath:1.5.2
+MESSAGE: Downloading library java3d:vecmath:1.5.2
+MESSAGE: Trying unpacked library java3d:vecmath:1.5.2
+MESSAGE: Considering library net.sf.trove4j:trove4j:3.0.3
+MESSAGE: Downloading library net.sf.trove4j:trove4j:3.0.3
+MESSAGE: Trying unpacked library net.sf.trove4j:trove4j:3.0.3
+MESSAGE: Considering library net.minecraftforge:MercuriusUpdater:1.12.1
+MESSAGE: Downloading library net.minecraftforge:MercuriusUpdater:1.12.1
+MESSAGE: Trying unpacked library net.minecraftforge:MercuriusUpdater:1.12.1
+Saving optional modlist to: ./mods/mod_list.json
+The server installed successfully, you should now be able to run the file forge-1.12.1-14.22.1.2478-universal.jar
+You can delete this installer file now if you wish
